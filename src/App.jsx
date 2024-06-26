@@ -20,6 +20,7 @@ function App() {
           display: "flex",
           flexWrap: "wrap",
           gap: 24,
+          justifyContent: "center",
         }}
       >
         {Object.entries(items).map(([key, items]) => {
