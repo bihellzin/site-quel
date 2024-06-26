@@ -1,0 +1,53 @@
+{
+  "cozinha": [
+    { "item": "Escorredor de Louça", "valor": "R$21", "comprado": false },
+    { "item": "Jogo de Pratos", "valor": "R$61", "comprado": false },
+    { "item": "Jogo Americano", "valor": "R$56,90", "comprado": false },
+    { "item": "Jogo de Panelas", "valor": "R$239,08", "comprado": false },
+    { "item": "Jogo de Facas", "valor": "R$173,25", "comprado": false },
+    { "item": "Talheres", "valor": "R$44,90", "comprado": false },
+    { "item": "Kit Utensílios", "valor": "R$119,90", "comprado": false },
+    { "item": "Peneira", "valor": "R$17,90", "comprado": false },
+    { "item": "Tábua de Cortar", "valor": "R$38,12 ", "comprado": false },
+    { "item": "Pote de Plástico", "valor": "R$25,41", "comprado": false },
+    { "item": "Potes", "valor": "R$139,00", "comprado": false },
+    { "item": "Airfryer", "valor": "R$349,00", "comprado": false },
+    { "item": "Rodinho de Pia", "valor": "R$5,86 ", "comprado": false },
+    { "item": "Processador", "valor": "R$99,81", "comprado": false },
+    { "item": "Kit Copo", "valor": "R$45,00", "comprado": false },
+    { "item": "Abridor de Latas", "valor": "R$7,95", "comprado": false },
+    { "item": "Travessa de Vidro", "valor": "R$59,00", "comprado": false },
+    { "item": "Cafeteira Italiana", "valor": "R$75,00", "comprado": false },
+    { "item": "Sanduicheira", "valor": "R$99,90", "comprado": false },
+    { "item": "Jarra", "valor": "R$39,90", "comprado": false },
+    { "item": "Descanso Panela", "valor": "R$42,99", "comprado": false },
+    { "item": "Porta detergente", "valor": "R$15,90", "comprado": false },
+    { "item": "Saleiro", "valor": "R$15,60 ", "comprado": false },
+    { "item": "Panela de pressão", "valor": "R$82,90", "comprado": false }
+  ],
+  "quarto": [
+    { "item": "Almofadas", "valor": "R$29,90", "comprado": false },
+    { "item": "Cobertor", "valor": "R$ 175,90", "comprado": false },
+    { "item": "Fronhas", "valor": "R$30,28", "comprado": false },
+    { "item": "Jogo de Lençol", "valor": "R$152,90", "comprado": false },
+    { "item": "Cabides", "valor": "R$37,90", "comprado": false },
+    { "item": "Organizadores", "valor": "R$50,99", "comprado": false },
+    { "item": "Sapateira", "valor": "R$76,00", "comprado": false },
+    { "item": "Travesseiro", "valor": "R$ 42,90", "comprado": false }
+  ],
+  "banheiro": [
+    {
+      "item": "Porta escova de dentes",
+      "valor": "R$12,74",
+      "comprado": false
+    },
+    { "item": "Tapete ", "valor": "R$28,49", "comprado": false },
+    { "item": "Toalhas", "valor": "R$109,90", "comprado": false },
+    { "item": "Lixeira", "valor": "R$38,90", "comprado": false }
+  ],
+  "área de serviço": [
+    { "item": "Baldes de plástico", "valor": "R$14,32", "comprado": false },
+    { "item": "Pá de lixo", "valor": "R$20,00", "comprado": false },
+    { "item": "Pregadores", "valor": "R$7,50", "comprado": false }
+  ]
+}
