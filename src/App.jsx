@@ -15,6 +15,37 @@ function App() {
   return (
     <>
       <h1>Chá da Minhoca</h1>
+      <div style={{ marginBottom: 48 }}>
+        <h2>
+          Bem-vinde. Estou muito feliz de anunciar minha primeira mudança {"<3"}{" "}
+          Pra isso, separei uma lista de utensílios e eletrodomésticos para
+          compartilhar com vocês, amigos e família, para, se quiserem, me darem
+          uma forcinha nesse momento importante!
+        </h2>
+        <p>
+          A lista de presentes contempla produtos desde baratinhos até valores
+          mais altos. Fique a vontade para escolher o que for possível: mesmo
+          que seja só um abraço e um bate-papo!
+        </p>
+      </div>
+      <div style={{ marginBottom: 48 }}>
+        <h2>COMO FUNCIONA?</h2>
+        <p>
+          A lista abaixo tem vários produtos. Você vai escolher o item que
+          deseja presentear e clicar no botão &quot;Escolhi meu Presente&quot;,
+          que vai te direcionar pro meu WhatsApp. A partir dali, você escolhe a
+          forma de pagamento do valor do item escolhido e voilá! Recebi meu
+          presente! Só não esqueça de conferir se o presente escolhido ainda
+          está disponível. Estarei atualizando o site sempre que possível! Ah! E
+          você pode conferir os valores certinho pela minha Wishlist da Amazon{" "}
+          <a
+            target="_blank"
+            href="https://www.amazon.com.br/hz/wishlist/ls/29LHKZO577R0S?ref_=wl_share"
+          >
+            aqui!
+          </a>
+        </p>
+      </div>
       <div
         style={{
           display: "flex",
